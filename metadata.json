@@ -1,0 +1,6 @@
+{
+  "name": "Mansoor Sarookh Tech Hub",
+  "description": "Personal technology knowledge & education platform by Mansoor Sarookh. Learn, build, and share through technical articles, YouTube video courses, tutorials, roadmaps, and software projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
